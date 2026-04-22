@@ -16,6 +16,7 @@ The goal of the project was to evaluate how well neural networks can recognize b
 ## Dataset
 
 The dataset consists of preprocessed **MP3 bird recordings** stored in a single **HDF5 file**, with each species organized into its own group.
+The dataset can be accesed via: https://github.com/mendible/5322/blob/main/Homework%203/bird_spectrograms.hdf5
 
 ### Data characteristics
 
