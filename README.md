@@ -138,10 +138,3 @@ However, performance was affected by:
 This study demonstrates that neural networks can be used for **bird species identification from audio recordings**, but the classification task remains challenging.
 
 The binary model performed better than the multi-class model, while the multi-class system showed the difficulty of scaling bird-song recognition across many species. The results suggest that better balance across classes, improved preprocessing, and additional model refinement could improve future performance.
-
-
-## Acknowledgments
-
-- Seattle University course materials for **Statistical Machine Learning-2**
-- Bird audio preprocessing workflow using spectrograms and HDF5 storage
-- References used in the report for deep learning, CNNs, RNNs, and loss functions
